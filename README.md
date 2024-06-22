@@ -1,0 +1,1 @@
+# Symmetry-and-numerical-sequence
